@@ -22,7 +22,7 @@
   "dependencies": {
     "through2": "*",
     "gulp-util": "~2.2.0",
-    "markdox": "~0.1.2"
+    "markdox": "warrenseymour/markdox#a46dd86ae3"
   },
   "devDependencies": {
     "mocha": "*",
